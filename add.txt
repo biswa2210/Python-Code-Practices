@@ -1,0 +1,14 @@
+
+------------------------------------------------->
+CLIENT NAME : BISWA
+CLIENT SERIAL NUMBER : 1
+ADD DIET AND EXERCISE :: KOM KHABE BESI EXERCISE KORBE
+2020-01-01 17:47:54.097323
+------------------------------------------------->
+
+------------------------------------------------->
+CLIENT NAME : ROMI
+CLIENT SERIAL NUMBER : 2
+ADD DIET AND EXERCISE :: KOM KHABE NA EXERCISE O KORBE NA
+2020-01-01 18:09:06.080785
+------------------------------------------------->
